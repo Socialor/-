@@ -1,0 +1,33 @@
+#body{
+    background-color:rgb(229, 247, 229);
+}
+
+#head1{
+    font-family:微软雅黑;
+    font-size:3.5em;
+    color:rgb(201, 97, 0);
+    height:30%;
+    width:100%;
+    text-align:center;
+    font-weight: 500;
+}
+
+#picsize
+{
+    height:100%;
+    width:100%;
+}
+
+.ppttext{
+    font-family:微软雅黑;
+    color:rgb(247, 6, 6);
+}
+
+.ppt1text{
+    font-family:微软雅黑;
+    color:white;
+}
+.text{
+    font-family:微软雅黑;
+    font-size:1.3em;
+}
